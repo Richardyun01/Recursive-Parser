@@ -1,6 +1,8 @@
 # Recursive-Parser
 Recursive Parsing program written in C++
 
+Created by [Richardyun01](https://github.com/Richardyun01) and [novaprospectCAU](https://github.com/novaprospectCAU). Original repesitory is [here](https://github.com/novaprospectCAU/RDP).
+
 주 실행 방법(제일 먼저 이 방법을 사용해서 실행해주시길 바랍니다.)
 - OS: Windows 11 ver.22H2(OS build 22621.2283)
 - HW: Intel Core i5-8265U 이상
